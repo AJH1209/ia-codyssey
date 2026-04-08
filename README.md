@@ -16,3 +16,7 @@ Github와 Codyssey를 연동하기 위해 만들어진 Repository입니다.
 
 # 터미널 조작 및 권한 실습 로그
 
+- Git 설정 및 Github 연동
+
+![빌드로그](./images/git_github_log.png)
+
