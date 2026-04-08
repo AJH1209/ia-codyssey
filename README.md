@@ -7,12 +7,13 @@ Github와 Codyssey를 연동하기 위해 만들어진 Repository입니다.
 - Git : 2.53.0
 
 # 수행 항목 체크 리스트
-- [] 터미널 기본 조작 및 폴더 구성
-- [] 권한 변경 실습
-- [] Docker 설치/점검
-- [] Dockerfile 커스텀 이미지 빌드 및 실행
-- [] 포트 매핑 및 접속 확인
-- [] 볼륨 영속성 검증
+- [x] Git 설정 및 Github 연동
+- [x] 터미널 조작 및 권한 실습
+- [x] Docker 설치 점검 및 기본 명령
+- [x] 컨테이너 실행 실습
+- [x] Dockerfile 커스텀 이미지 제작
+- [x] Docker 볼륨 영속성 검증
+- [x] 트러블슈팅
 
 # 터미널 조작 및 권한 실습 로그
 
@@ -26,8 +27,13 @@ Github와 Codyssey를 연동하기 위해 만들어진 Repository입니다.
 
 - Docker 설치 점검 및 기본 명령
 
+Docker 설치 점검 
+
 ![빌드로그](./mission/images/3terminal_log1.png)
 ![빌드로그](./mission/images/3terminal_log2.png)
+
+Docker 이미지 및 컨테이너 운영
+
 ![빌드로그](./mission/images/4terminal_log.png)
 
 - 컨테이너 실행 실습
