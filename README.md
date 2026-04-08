@@ -18,5 +18,5 @@ Github와 Codyssey를 연동하기 위해 만들어진 Repository입니다.
 
 - Git 설정 및 Github 연동
 
-![빌드로그](./images/git_github_log.png)
+![빌드로그](./mission/images/git_github_log.png)
 
